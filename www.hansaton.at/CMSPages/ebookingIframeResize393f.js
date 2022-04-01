@@ -1,0 +1,1 @@
+window.onmessage=n=>{n.data.hasOwnProperty("frameHeight")&&(document.getElementById("ebooking-iframe").style.height=`${n.data.frameHeight+30}px`)}

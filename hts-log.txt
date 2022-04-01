@@ -1,0 +1,293 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Apr 2022 00:05:30 at https://www.hansaton.at/ https://hoertsichgutan.hansaton.at/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hansaton.at/ https://hoertsichgutan.hansaton.at/ -O1 "C:\Users\dell\Downloads\hanston_work" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:06:23	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 81813): https://www.hansaton.at/CMSScripts/Sonova/main.js
+00:06:36	Warning: 	Note: due to https://hoertsichgutan.hansaton.at remote robots.txt rules, links beginning with these path will be forbidden: */clkn/*, */clkg/* (see in the options to disable this)
+00:08:14	Warning: 	link is probably looping, type unknown, aborting: https://hoertsichgutan.hansaton.at/clkn/tel/+436624512620
+00:08:23	Warning: 	link is probably looping, type unknown, aborting: https://hoertsichgutan.hansaton.at/clkn/tel/+4366245126299
+13:05:37	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.hansaton.at/)
+13:06:41	Warning: 	Moved Permanently for https://www.hansaton.at/ab-wann-hoergeraete/tipps-fuer-angehoerige/
+13:06:41	Warning: 	File has moved from https://www.hansaton.at/ab-wann-hoergeraete/tipps-fuer-angehoerige/ to https://www.hansaton.at/beratung/ab-wann-brauche-ich-ein-hoergeraet/tipps-fuer-angehoerige/
+13:09:58	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/warum-hansaton-unsere-services/
+13:09:58	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/warum-hansaton-unsere-services/ to /produkte/hoergerate/warum-hansaton-unsere-services/
+13:11:28	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz/alle-artikel/
+13:11:28	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz/alle-artikel/ to https://www.hansaton.at/gehoerschutz/
+13:15:40	Warning: 	Link https://www.hansaton.at/hoerverlust-symptome-therapien/alle-artikel/ not scanned (follow robots meta tag)
+13:17:08	Warning: 	Link https://www.hansaton.at/wissenswertes-tipps/alle-artikel/ not scanned (follow robots meta tag)
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/batterien-und-zubehoer/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/batterien-und-zubehoer/ to https://shop.hansaton.at/batterien-und-zubehoer/alle-produkte
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/batterien-und-zubehoer/hoergeraetebatterien/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/batterien-und-zubehoer/hoergeraetebatterien/ to https://shop.hansaton.at/batterien-und-zubehoer/hoergeraetebatterien
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/batterien-und-zubehoer/reinigung-und-pflege/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/batterien-und-zubehoer/reinigung-und-pflege/ to https://shop.hansaton.at/batterien-und-zubehoer/reinigung-pflege
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/gehoerschutz/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/gehoerschutz/ to https://shop.hansaton.at/gehoerschutz/alle-produkte
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/gehoerschutz/freizeit-und-schlaf/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/gehoerschutz/freizeit-und-schlaf/ to https://shop.hansaton.at/gehoerschutz/freizeit-und-schlaf
+13:17:08	Warning: 	Moved Permanently for https://www.hansaton.at/shop/gehoerschutz/industrie-und-arbeit/
+13:17:08	Warning: 	File has moved from https://www.hansaton.at/shop/gehoerschutz/industrie-und-arbeit/ to https://shop.hansaton.at/gehoerschutz/industrie-und-arbeit
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/shop/gehoerschutz/babys-und-kinder/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/shop/gehoerschutz/babys-und-kinder/ to https://shop.hansaton.at/gehoerschutz/babys-und-kinder
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/shop/marken/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/shop/marken/ to https://shop.hansaton.at/marken/alle-produkte
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/shop/marken/crescendo/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/shop/marken/crescendo/ to https://shop.hansaton.at/marken/crescendo
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/shop/marken/audionova/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/shop/marken/audionova/ to https://shop.hansaton.at/marken/audionova
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/shop/marken/babybanz/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/shop/marken/babybanz/ to https://shop.hansaton.at/marken/babybanz
+13:17:09	Warning: 	Moved Permanently for https://www.hansaton.at/unternehmen/world-of-hearing/
+13:17:09	Warning: 	File has moved from https://www.hansaton.at/unternehmen/world-of-hearing/ to https://www.hansaton.at/world-of-hearing
+13:17:27	Warning: 	Moved Permanently for https://www.hansaton.at/world-of-hearing/schnellhoertest/
+13:17:27	Warning: 	File has moved from https://www.hansaton.at/world-of-hearing/schnellhoertest/ to /world-of-hearing/selbst-hoertest/
+13:17:31	Warning: 	Moved Permanently for https://www.hansaton.at/world-of-hearing/interaktiv/
+13:17:31	Warning: 	File has moved from https://www.hansaton.at/world-of-hearing/interaktiv/ to https://www.hansaton.at/world-of-hearing/multimedia/
+13:19:31	Warning: 	Moved Permanently for https://www.hansaton.at/unternehmen/karriere/
+13:19:31	Warning: 	File has moved from https://www.hansaton.at/unternehmen/karriere/ to https://www.hansaton.at/karriere/
+13:19:48	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/arten-hoerverlust/
+13:19:48	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/arten-hoerverlust/ to https://www.hansaton.at/ab-wann-hoergeraete/ursachen-arten-grade-hoerverlust/
+13:20:00	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/hinter-dem-ohr/
+13:20:00	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/hinter-dem-ohr/ to https://www.hansaton.at/produkte/hoergerate/hinter-dem-ohr/
+13:20:15	Warning: 	Moved Permanently for https://www.hansaton.at/ueber-uns/
+13:20:15	Warning: 	File has moved from https://www.hansaton.at/ueber-uns/ to https://www.hansaton.at/ueber-hansaton/
+13:20:23	Warning: 	Moved Permanently for https://www.hansaton.at/news/aktuelle-meldungen/
+13:20:23	Warning: 	File has moved from https://www.hansaton.at/news/aktuelle-meldungen/ to /news
+13:20:25	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz-stoepsel/
+13:20:25	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz-stoepsel/ to https://www.hansaton.at/gehoerschutz
+13:20:28	Warning: 	Link https://www.hansaton.at/allgemeine-geschaeftsbedingungen/ not scanned (follow robots meta tag)
+13:20:31	Warning: 	Link https://www.hansaton.at/newsletter-abmelden/ not scanned (follow robots meta tag)
+13:20:34	Warning: 	Moved Permanently for https://www.hansaton.at/datenschutz-cookies/
+13:20:34	Warning: 	File has moved from https://www.hansaton.at/datenschutz-cookies/ to https://www.hansaton.at/datenschutzerklaerung/
+13:20:35	Error: 	"Not Found" (404) at link https://sonova-retail-media-prd.azureedge.net/media-new/ml/sonova.hansaton-at/bilder/logos/hansaton_vertrauen_2.jpg (from https://www.hansaton.at/)
+13:20:39	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/
+13:20:39	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/ to https://www.hansaton.at/
+13:20:40	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/
+13:20:40	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/ to https://www.hansaton.at/de/
+13:20:40	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/impressum/
+13:20:40	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/impressum/ to https://www.hansaton.at/de/impressum/
+13:20:40	Warning: 	Retry after error -2 (Connect Time Out) at link https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/datenschutz/ (from https://hoertsichgutan.hansaton.at/)
+13:20:40	Warning: 	Retry after error -4 (Connect Error) at link https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/datenschutz/ (from https://hoertsichgutan.hansaton.at/)
+13:20:41	Warning: 	Retry after error -4 (Connect Error) at link https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/cookies/ (from https://hoertsichgutan.hansaton.at/)
+13:20:42	Warning: 	Retry after error -4 (Connect Error) at link https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/cookies/ (from https://hoertsichgutan.hansaton.at/)
+13:20:42	Warning: 	Link https://www.hansaton.at/danke/ not scanned (follow robots meta tag)
+13:20:43	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/datenschutzerklaerung/
+13:20:43	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/datenschutzerklaerung/ to https://www.hansaton.at/datenschutzerklaerung/
+13:20:44	Warning: 	Retry after error -4 (Incorrect length (339999 Bytes, 368190 expected)) at link d9hhrg4mnvzow.cloudfront.net/hoertsichgutan.hansaton.at/d04d61f8-hansaton-sprache-1500x890-rgb.jpg (from https://hoertsichgutan.hansaton.at/)
+13:20:44	Warning: 	Retry after error -2 (Receive Time Out) at link d9hhrg4mnvzow.cloudfront.net/hoertsichgutan.hansaton.at/29cdc9c3-hansaton-tv-ton-1500x1000-rgb_10qo0hr000000000000000.jpg (from https://hoertsichgutan.hansaton.at/)
+13:20:44	Warning: 	Retry after error -2 (Connect Time Out) at link d9hhrg4mnvzow.cloudfront.net/hoertsichgutan.hansaton.at/46295c89-hansaton-tv-ton-1500x890-rgb.jpg (from https://hoertsichgutan.hansaton.at/)
+13:20:50	Warning: 	Retry after error -2 (Receive Time Out) at link d9hhrg4mnvzow.cloudfront.net/hoertsichgutan.hansaton.at/dfd8ea4f-hansaton-paradise-1500x1000-rgb_10qo0hr000000000000000.jpg (from https://hoertsichgutan.hansaton.at/)
+13:20:56	Error: 	"Not Found" (404) at link https://www.hansaton.at/Sonova/css/owl.video.play.png (from https://www.hansaton.at/Sonova/css/main-hansaton.min.css)
+13:20:56	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/cityList/de_AT.4468db24.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:20:56	Warning: 	Retry after error -2 (Receive Time Out) at link https://c.bing.com/c.gif (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:05	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link https://script.hotjar.com/modules.1ac7747ae91d905f6b1c.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:05	Warning: 	Retry after error -4 (Connect Error) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/search/de_AT.75318abd.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:10	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.5d7b003bea9773742697.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:10	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/location/de_AT.3876c65b.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:10	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.d8d7274ca9da6876e8ea.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:10	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/cityList/de_AT.2e2da57f.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:10	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/location/de_AT.9fcd30b7.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:11	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/location/de_AT.4b18d778.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:11	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/cityList/de_AT.99b92c2f.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:11	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/search/de_AT.cd7d2fd1.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:11	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/search/de_AT.4be721f0.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:11	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.3bdaf89b2eed32b88847.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:12	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/POST/ (from https://www.hansaton.at/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZH2SFpHQA4OhRk-X_-ySPfIRr0mXp3HULrifMnivQhDiC6huyDVakTO8DLx5pPZxBQ2&t=637794260480358989)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/Firefox/ (from https://www.hansaton.at/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqtNEPvIFi2u6QszGGYfoXu0V65r_0KjtwuZ5fWtVoeVf8u09wEmkH08r3PBCrSjTXvqzIKb-KmdjUT8kWtTPnwTlNcexchV2FPyvIR_8olBu_NZmQzCSbNxI20Iw8AbveIX4mDF0ri0OGoO6BRo-BA1&t=ffffffff8333b97c)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/AppleWebKit/ (from https://www.hansaton.at/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqtNEPvIFi2u6QszGGYfoXu0V65r_0KjtwuZ5fWtVoeVf8u09wEmkH08r3PBCrSjTXvqzIKb-KmdjUT8kWtTPnwTlNcexchV2FPyvIR_8olBu_NZmQzCSbNxI20Iw8AbveIX4mDF0ri0OGoO6BRo-BA1&t=ffffffff8333b97c)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/Opera/ (from https://www.hansaton.at/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvqtNEPvIFi2u6QszGGYfoXu0V65r_0KjtwuZ5fWtVoeVf8u09wEmkH08r3PBCrSjTXvqzIKb-KmdjUT8kWtTPnwTlNcexchV2FPyvIR_8olBu_NZmQzCSbNxI20Iw8AbveIX4mDF0ri0OGoO6BRo-BA1&t=ffffffff8333b97c)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/MicrosoftAjaxWebForms.js (from https://www.hansaton.at/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OMWvYm_uPJ-Rx92G5OAYQ66emstJJWgvb_fR447C_sX7WntJyeL1rDOtJy2km2iPAzolK_KbXR3gn1KAosQQUgTD43A-8v1kG5-6HTD-nCwcL1Bd2jt8q-I4jLNlpmvY4cLyZvyXofNE7Jx5wGcGCWw1&t=ffffffff8333b97c)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/MicrosoftAjaxSerialization.js (from https://www.hansaton.at/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OMWvYm_uPJ-Rx92G5OAYQ66emstJJWgvb_fR447C_sX7WntJyeL1rDOtJy2km2iPAzolK_KbXR3gn1KAosQQUgTD43A-8v1kG5-6HTD-nCwcL1Bd2jt8q-I4jLNlpmvY4cLyZvyXofNE7Jx5wGcGCWw1&t=ffffffff8333b97c)
+13:21:12	Error: 	"Not Found" (404) at link https://www.hansaton.at/MicrosoftAjaxNetwork.js (from https://www.hansaton.at/ScriptResource.axd?d=dwY9oWetJoJoVpgL6Zq8OMWvYm_uPJ-Rx92G5OAYQ66emstJJWgvb_fR447C_sX7WntJyeL1rDOtJy2km2iPAzolK_KbXR3gn1KAosQQUgTD43A-8v1kG5-6HTD-nCwcL1Bd2jt8q-I4jLNlpmvY4cLyZvyXofNE7Jx5wGcGCWw1&t=ffffffff8333b97c)
+13:21:13	Warning: 	Moved Permanently for https://www.hansaton.at/hoertest/online-hoertest/
+13:21:13	Warning: 	File has moved from https://www.hansaton.at/hoertest/online-hoertest/ to https://www.hansaton.at/ab-wann-hoergeraete/online-hoertest
+13:21:14	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/moderne-hoergeraete/
+13:21:14	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/moderne-hoergeraete/ to https://www.hansaton.at/hoergeraete/bluetooth-hoergeraete/
+13:21:14	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/vergleich/
+13:21:14	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/vergleich/ to https://www.hansaton.at/hoergeraete/
+13:21:15	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/hoergeraete-technologie/
+13:21:15	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/hoergeraete-technologie/ to https://www.hansaton.at/hoergeraete/bluetooth-hoergeraete/
+13:21:19	Warning: 	Link https://www.hansaton.at/contact-popup/store-locator/ not scanned (follow robots meta tag)
+13:21:20	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/
+13:21:20	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/ to https://www.hansaton.at/ab-wann-hoergeraete/ursachen-arten-grade-hoerverlust/
+13:21:20	Warning: 	Moved Permanently for https://www.hansaton.at/hoertest/wissenswertes-zum-hoertest/
+13:21:20	Warning: 	File has moved from https://www.hansaton.at/hoertest/wissenswertes-zum-hoertest/ to https://www.hansaton.at/hoergeraet-auswahl/hoertest
+13:21:24	Warning: 	Moved Permanently for https://www.hansaton.at/symptome-therapien/
+13:21:24	Warning: 	File has moved from https://www.hansaton.at/symptome-therapien/ to https://www.hansaton.at/hoerverlust-symptome-therapien/
+13:21:25	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/bauformen/
+13:21:25	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/bauformen/ to https://www.hansaton.at/hoergeraet-auswahl/hoergeraete-arten
+13:21:25	Warning: 	Moved Permanently for https://www.hansaton.at/hoertest/
+13:21:25	Warning: 	File has moved from https://www.hansaton.at/hoertest/ to https://www.hansaton.at/hoergeraet-auswahl/hoertest
+13:21:36	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/preise/basis/
+13:21:36	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/preise/basis/ to https://www.hansaton.at/hoergeraete-preise/basis
+13:21:37	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/preise/standard/
+13:21:37	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/preise/standard/ to https://www.hansaton.at/hoergeraete-preise/standard
+13:21:38	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/preise/premium/
+13:21:38	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/preise/premium/ to https://www.hansaton.at/hoergeraete-preise/premium
+13:21:39	Warning: 	Moved Permanently for https://www.hansaton.at/hoeren-verstehen/
+13:21:39	Warning: 	File has moved from https://www.hansaton.at/hoeren-verstehen/ to https://www.hansaton.at/beratung/
+13:21:39	Warning: 	Moved Permanently for https://www.hansaton.at/wissenswertes-tipps/ohrenreinigung-zu-hause/
+13:21:39	Warning: 	File has moved from https://www.hansaton.at/wissenswertes-tipps/ohrenreinigung-zu-hause/ to https://www.hansaton.at/wissenswertes-tipps/ohren-reinigen-und-spuelen/
+13:21:39	Warning: 	Moved Permanently for https://www.hansaton.at/hoergerate-batterien-zubehoer/hoergeraete-pflege-clear/
+13:21:39	Warning: 	File has moved from https://www.hansaton.at/hoergerate-batterien-zubehoer/hoergeraete-pflege-clear/ to https://www.hansaton.at/produkte/hoergerate-batterien-zubehoer/hoergeraete-reinigung-pflege/
+13:21:40	Warning: 	Moved Permanently for https://www.hansaton.at/rund-ums-gehoer/
+13:21:40	Warning: 	File has moved from https://www.hansaton.at/rund-ums-gehoer/ to https://www.hansaton.at/ab-wann-hoergeraete/online-hoertest/
+13:21:41	Warning: 	Link https://www.hansaton.at/contact-popup/store-locator-(1)/ not scanned (follow robots meta tag)
+13:21:56	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430040&_ga=2.57739503.496151795.1581070028-1371453809.1548342797 not scanned (follow robots meta tag)
+13:21:57	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430029&_ga=2.246554689.496151795.1581070028-1371453809.1548342797 not scanned (follow robots meta tag)
+13:21:58	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430010&_ga=2.226764888.496151795.1581070028-1371453809.1548342797 not scanned (follow robots meta tag)
+13:21:58	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430012&_ga=2.226764888.496151795.1581070028-1371453809.1548342797 not scanned (follow robots meta tag)
+13:21:59	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430083&_ga=2.250882883.496151795.1581070028-1371453809.1548342797 not scanned (follow robots meta tag)
+13:22:13	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz/was-ist-gehoerschutz/
+13:22:13	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz/was-ist-gehoerschutz/ to https://www.hansaton.at/gehoerschutz/
+13:22:30	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz/musik/
+13:22:30	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz/musik/ to https://www.hansaton.at/gehoerschutz/musik-konzerte
+13:22:31	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz/angepasster-gehoerschutz/
+13:22:31	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz/angepasster-gehoerschutz/ to https://www.hansaton.at/individuell-angepasster-gehoerschutz
+13:22:35	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/mittelohrentzuendung-otitis-media/
+13:22:35	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/mittelohrentzuendung-otitis-media/ to https://www.hansaton.at/rund-um-das-gehoer/mittelohrentzuendungen/
+13:22:37	Warning: 	Moved Permanently for https://www.hansaton.at/wissenswertes-tipps/laerm-gefahr-fuer-ohren/
+13:22:37	Warning: 	File has moved from https://www.hansaton.at/wissenswertes-tipps/laerm-gefahr-fuer-ohren/ to https://www.hansaton.at/wissenswertes-tipps/lautstaerke-dezibel/
+13:22:38	Warning: 	Moved Permanently for https://www.hansaton.at/hoertest/beim-hoerakustiker/
+13:22:38	Warning: 	File has moved from https://www.hansaton.at/hoertest/beim-hoerakustiker/ to https://www.hansaton.at/hoergeraet-auswahl/hoerakustiker-finden/
+13:22:39	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/weisses-rauschen/
+13:22:39	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/weisses-rauschen/ to https://www.hansaton.at/rund-um-das-gehoer/weisses-rauschen/
+13:22:39	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/ohrdruck-ursachen-und-heilmittel/
+13:22:39	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/ohrdruck-ursachen-und-heilmittel/ to https://www.hansaton.at/hoerverlust-symptome-therapien/ohrdruck-ursachen-heilmittel/
+13:22:39	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/altersschwerhoerigkeit-presbyakusis/
+13:22:39	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/altersschwerhoerigkeit-presbyakusis/ to https://www.hansaton.at/hoerverlust-symptome-therapien/altersschwerhoerigkeit/
+13:22:40	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/das-ohr/
+13:22:40	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/das-ohr/ to https://www.hansaton.at/rund-um-das-gehoer/das-menschliche-ohr/
+13:22:40	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/mit-den-ohren-sehen/
+13:22:40	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/mit-den-ohren-sehen/ to https://www.hansaton.at/wissenswertes-tipps/mit-den-ohren-sehen/
+13:23:41	Warning: 	Moved Permanently for https://www.hansaton.at/hoeren-verstehen/hoerverlust/schwerhoerigkeit/
+13:23:41	Warning: 	File has moved from https://www.hansaton.at/hoeren-verstehen/hoerverlust/schwerhoerigkeit/ to https://www.hansaton.at/hoerverlust-symptome-therapien/altersschwerhoerigkeit/
+13:23:41	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/schwerhoerigkeit/
+13:23:41	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/schwerhoerigkeit/ to https://www.hansaton.at/hoerverlust-symptome-therapien/grade-des-hoerverlusts
+13:23:42	Warning: 	Moved Permanently for https://www.hansaton.at/tinnitus/ursachen-und-symptome/
+13:23:42	Warning: 	File has moved from https://www.hansaton.at/tinnitus/ursachen-und-symptome/ to https://www.hansaton.at/hoerverlust-symptome-therapien/tinnitus-symptome-ursachen/
+13:23:42	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/ursachen-hoerverlust/
+13:23:42	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/ursachen-hoerverlust/ to https://www.hansaton.at/ab-wann-hoergeraete/ursachen-arten-grade-hoerverlust
+13:23:43	Warning: 	Moved Permanently for https://www.hansaton.at/das-richtige-hoergeraet/was-kann-ich-von-einem-hoergeraet-erwarten/
+13:23:43	Warning: 	File has moved from https://www.hansaton.at/das-richtige-hoergeraet/was-kann-ich-von-einem-hoergeraet-erwarten/ to https://www.hansaton.at/hoergeraet-auswahl/hoergeraete-arten
+13:23:43	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz-stoepsel/gehoerschutz/
+13:23:43	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz-stoepsel/gehoerschutz/ to https://www.hansaton.at/gehoerschutz/was-ist-gehoerschutz/
+13:23:43	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/wie-funktioniert-das-gehoer/
+13:23:43	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/wie-funktioniert-das-gehoer/ to https://www.hansaton.at/ab-wann-hoergeraete/wie-funktioniert-das-gehoer
+13:23:44	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz-stoepsel/warum-ist-laerm-gefaehrlich/
+13:23:44	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz-stoepsel/warum-ist-laerm-gefaehrlich/ to https://www.hansaton.at/gehoerschutz
+13:23:44	Warning: 	Moved Permanently for https://www.hansaton.at/hoerverlust/hoersturz/
+13:23:44	Warning: 	File has moved from https://www.hansaton.at/hoerverlust/hoersturz/ to https://www.hansaton.at/hoerverlust-symptome-therapien/hoersturz/
+13:23:44	Warning: 	Moved Permanently for https://www.hansaton.at/tinnitus/vorbeugung-und-behandlung/
+13:23:44	Warning: 	File has moved from https://www.hansaton.at/tinnitus/vorbeugung-und-behandlung/ to https://www.hansaton.at/hoerverlust-symptome-therapien/tinnitus-behandlung-vorbeugung/
+13:23:44	Warning: 	Moved Permanently for https://www.hansaton.at/brauche-ich-ein-hoergeraet/hoergeraeteakustiker-finden/
+13:23:44	Warning: 	File has moved from https://www.hansaton.at/brauche-ich-ein-hoergeraet/hoergeraeteakustiker-finden/ to https://www.hansaton.at/hoergeraet-auswahl/hoerakustiker-finden
+13:23:45	Warning: 	Moved Permanently for https://www.hansaton.at/brauche-ich-ein-hoergeraet/anzeichen-von-hoerminderung/
+13:23:45	Warning: 	File has moved from https://www.hansaton.at/brauche-ich-ein-hoergeraet/anzeichen-von-hoerminderung/ to https://www.hansaton.at/hoerverlust-symptome-therapien
+13:23:46	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz-stoepsel/wie-laut-ist-zu-laut/
+13:23:46	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz-stoepsel/wie-laut-ist-zu-laut/ to https://www.hansaton.at/wissenswertes-tipps/lautstaerke-dezibel/
+13:24:48	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/menschliches-hoervermoegen-im-vergleich/
+13:24:48	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/menschliches-hoervermoegen-im-vergleich/ to https://www.hansaton.at/rund-um-das-gehoer/menschliches-hoervermoegen-im-vergleich/
+13:24:48	Warning: 	Moved Permanently for https://www.hansaton.at/tinnitus/
+13:24:48	Warning: 	File has moved from https://www.hansaton.at/tinnitus/ to https://www.hansaton.at/hoerverlust-symptome-therapien/tinnitus-symptome-ursachen
+13:24:49	Warning: 	Moved Permanently for https://www.hansaton.at/medizintechnik-praxis-klinik/
+13:24:49	Warning: 	File has moved from https://www.hansaton.at/medizintechnik-praxis-klinik/ to /medizintechnik
+13:24:52	Error: 	"Not Found" (404) at link https://sonova-retail-media-prd.azureedge.net/media-new/ml/sonova.hansaton-at/bilder/kampagnen/world-of-hearing/innenansicht-woh.jpg (from https://www.hansaton.at/world-of-hearing/)
+13:25:20	Warning: 	Moved Permanently for https://www.hansaton.at/news/testsieger-2019/
+13:25:20	Warning: 	File has moved from https://www.hansaton.at/news/testsieger-2019/ to https://www.hansaton.at/
+13:25:53	Warning: 	Moved Permanently for https://www.hansaton.at/leben-mit-hoergeraeten/msh-paket/
+13:25:53	Warning: 	File has moved from https://www.hansaton.at/leben-mit-hoergeraeten/msh-paket/ to https://www.hansaton.at/hoergeraet-auswahl/msh-paket/
+13:25:53	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/kinder-hoergeraete/
+13:25:53	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/kinder-hoergeraete/ to https://www.hansaton.at/hoergeraet-auswahl/kinder-hoergeraete/
+13:25:59	Error: 	"Not Found" (404) at link https://www.hansaton.at/hoergeraete/phonak-virto-m-50/ (from https://www.hansaton.at/hoergeraete/im-ohr/)
+13:26:19	Warning: 	Moved Permanently for https://www.hansaton.at/ueber-hansaton/
+13:26:19	Warning: 	File has moved from https://www.hansaton.at/ueber-hansaton/ to https://www.hansaton.at/unternehmen/ueber-hansaton/
+13:26:20	Error: 	"Not Found" (404) at link https://www.hansaton.at/CMSPages/faq-onlineshop (from https://www.hansaton.at/faq/)
+13:26:20	Warning: 	Moved Permanently for https://www.hansaton.at/cookies-1/
+13:26:20	Warning: 	File has moved from https://www.hansaton.at/cookies-1/ to https://www.hansaton.at/cookies/
+13:26:20	Error: 	"Forbidden" (403) at link builder-assets.unbounce.com/images/transparent.gif (from builder-assets.unbounce.com/published-css/main-7b78720.z.css)
+13:26:20	Error: 	"Not Found" (404) at link https://hoertsichgutan.hansaton.at/c (from https://connect.facebook.net/en_US/fbevents.js)
+13:26:20	Error: 	"Not Found" (404) at link https://hoertsichgutan.hansaton.at/b (from https://connect.facebook.net/en_US/fbevents.js)
+13:26:20	Error: 	"Not Found" (404) at link https://hoertsichgutan.hansaton.at/POST (from https://connect.facebook.net/en_US/fbevents.js)
+13:26:20	Warning: 	Moved Permanently for https://www.hansaton.at/de/
+13:26:20	Warning: 	File has moved from https://www.hansaton.at/de/ to https://www.hansaton.at
+13:26:20	Warning: 	Moved Permanently for https://www.hansaton.at/de/impressum/
+13:26:20	Warning: 	File has moved from https://www.hansaton.at/de/impressum/ to https://www.hansaton.at/impressum/
+13:26:20	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/datenschutz/
+13:26:20	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/datenschutz/ to https://www.hansaton.at/de/datenschutz/
+13:26:20	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/datenschutz/
+13:26:20	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/datenschutz/ to https://www.hansaton.at/datenschutz/
+13:26:20	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/cookies/
+13:26:20	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/cookies/ to https://www.hansaton.at/cookies/
+13:26:20	Warning: 	Moved Permanently for https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/cookies/
+13:26:20	Warning: 	File has moved from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/cookies/ to https://www.hansaton.at/de/cookies/
+13:26:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.1ac7747ae91d905f6b1c.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:26:23	Error: 	"Not Found" (404) at link https://standorte.hansaton.at/permanent-b0b701/standorte.hansaton.at/search/de_AT.75318abd.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:26:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.5d7b003bea9773742697.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:26:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.d8d7274ca9da6876e8ea.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:26:23	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://script.hotjar.com/modules.3bdaf89b2eed32b88847.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:26:23	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/was-macht-ein-hno-arzt/
+13:26:23	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/was-macht-ein-hno-arzt/ to https://www.hansaton.at/wissenswertes-tipps/hno-arzt/
+13:26:45	Warning: 	Moved Permanently for https://www.hansaton.at/hoertest/audiogramm/
+13:26:45	Warning: 	File has moved from https://www.hansaton.at/hoertest/audiogramm/ to https://www.hansaton.at/hoergeraet-auswahl/hoertest
+13:26:50	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/ not scanned (follow robots meta tag)
+13:26:51	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/tipps-zur-sicheren-ohrenreinigung-zu-hause/
+13:26:51	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/tipps-zur-sicheren-ohrenreinigung-zu-hause/ to https://www.hansaton.at/wissenswertes-tipps/ohrenreinigung-zu-hause/
+13:26:52	Error: 	"Not Found" (404) at link https://sonova-retail-media-prd.azureedge.net/media-new/ml/sonova.geers-de/Geers/Infothek/Alle-Artikel_1.jpg (from https://www.hansaton.at/produkte/)
+13:26:52	Warning: 	Moved Permanently for https://www.hansaton.at/gehoerschutz/wie-laut-ist-zu-laut/
+13:26:52	Warning: 	File has moved from https://www.hansaton.at/gehoerschutz/wie-laut-ist-zu-laut/ to https://www.hansaton.at/wissenswertes-tipps/lautstaerke-dezibel/
+13:26:52	Warning: 	Moved Permanently for https://www.hansaton.at/blog/gehoerschutz/lautstaerke-und-dezibel/
+13:26:52	Warning: 	File has moved from https://www.hansaton.at/blog/gehoerschutz/lautstaerke-und-dezibel/ to https://www.hansaton.at/wissenswertes-tipps/lautstaerke-dezibel/
+13:27:07	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/grade-des-hoerverlusts/
+13:27:07	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/grade-des-hoerverlusts/ to https://www.hansaton.at/hoerverlust-symptome-therapien/grade-des-hoerverlusts/
+13:27:07	Warning: 	Moved Permanently for https://www.hansaton.at/brauche-ich-ein-hoergeraet/
+13:27:07	Warning: 	File has moved from https://www.hansaton.at/brauche-ich-ein-hoergeraet/ to https://www.hansaton.at/ab-wann-brauche-ich-ein-hoergeraet
+13:27:08	Warning: 	Moved Permanently for https://www.hansaton.at/online-hoertest/
+13:27:08	Warning: 	File has moved from https://www.hansaton.at/online-hoertest/ to https://www.hansaton.at/ab-wann-hoergeraete/online-hoertest/
+13:27:08	Warning: 	Moved Permanently for https://www.hansaton.at/hoergeraete/hoergeraete-geschichte/
+13:27:08	Warning: 	File has moved from https://www.hansaton.at/hoergeraete/hoergeraete-geschichte/ to https://www.hansaton.at/wissenswertes-tipps/geschichte-entstehung-von-hoergeraeten
+13:27:09	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/juckende-ohren/
+13:27:09	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/juckende-ohren/ to https://www.hansaton.at/wissenswertes-tipps/juckende-ohren/
+13:27:09	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/hyperakusis-schallueberempfindlichkeit/
+13:27:09	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/hyperakusis-schallueberempfindlichkeit/ to https://www.hansaton.at/rund-um-das-gehoer/hyperakusis/
+13:27:09	Warning: 	Moved Permanently for https://www.hansaton.at/erfahrungen-mit-einem-hoergeraet/
+13:27:09	Warning: 	File has moved from https://www.hansaton.at/erfahrungen-mit-einem-hoergeraet/ to https://www.hansaton.at/mein-neues-leben-mit-hoergeraeten/
+13:27:09	Warning: 	Moved Permanently for https://www.hansaton.at/tipps-rund-ums-hoeren/brauche-ich-ein-hoergeraet/
+13:27:09	Warning: 	File has moved from https://www.hansaton.at/tipps-rund-ums-hoeren/brauche-ich-ein-hoergeraet/ to https://www.hansaton.at/brauche-ich-ein-hoergeraet/
+13:27:09	Warning: 	Moved Permanently for https://www.hansaton.at/erfahrungen-mit-einem-hoergeraet/reinigung-und-pflege/
+13:27:09	Warning: 	File has moved from https://www.hansaton.at/erfahrungen-mit-einem-hoergeraet/reinigung-und-pflege/ to https://www.hansaton.at/leben-mit-hoergeraeten/reinigung-pflege
+13:27:10	Warning: 	Link https://www.hansaton.at/shop/ not scanned (follow robots meta tag)
+13:27:10	Warning: 	Moved Permanently for https://www.hansaton.at/blog/hoeren-und-hoerverlust/
+13:27:10	Warning: 	File has moved from https://www.hansaton.at/blog/hoeren-und-hoerverlust/ to https://www.hansaton.at/hoerverlust-symptome-therapien
+13:27:10	Error: 	"Not Found" (404) at link https://www.hansaton.at/ratgeber/wissenswertes-und-tipps/ohren-unter-der-dusche-reinigen/was-sind-ohrkerzen/ (from https://www.hansaton.at/ratgeber/wissenswertes-und-tipps/ohren-unter-der-dusche-reinigen/)
+13:27:12	Warning: 	Link https://www.hansaton.at/terminvereinbarung-standorte/?store_id=AT430015/ not scanned (follow robots meta tag)
+13:27:12	Warning: 	Moved Permanently for https://www.hansaton.at/aktuelle-meldungen/innsbrucker-symposium/
+13:27:12	Warning: 	File has moved from https://www.hansaton.at/aktuelle-meldungen/innsbrucker-symposium/ to https://www.hansaton.at/news/innsbrucker-symposium/
+13:27:12	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link c:/Users/340nblaschke/OneDrive - Sonova/2018-11-12 16_40_28-Flyer_Kurs_fuer_Gleichgewichtsdiagnostik_Funktionsabteilung_Neurootologie.pdf.png (from https://www.hansaton.at/news/innsbrucker-symposium/)
+13:27:15	Warning: 	Moved Permanently for https://www.hansaton.at/de/datenschutz/
+13:27:15	Warning: 	File has moved from https://www.hansaton.at/de/datenschutz/ to https://www.hansaton.at/datenschutz-cookies/
+13:27:15	Error: 	"Not Found" (404) at link https://www.hansaton.at/de/cookies/ (from https://hoertsichgutan.hansaton.at/clkn/https/www.hansaton.at/de/cookies/)
+13:27:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://script.hotjar.com/modules.1ac7747ae91d905f6b1c.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:27:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://script.hotjar.com/modules.5d7b003bea9773742697.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:27:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://script.hotjar.com/modules.d8d7274ca9da6876e8ea.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:27:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://script.hotjar.com/modules.3bdaf89b2eed32b88847.js (from https://cdn.cookielaw.org/consent/ae21900b-08ed-41c7-a0bc-afcaaca1aa36/OtAutoBlock.js)
+13:27:15	Error: 	"Not Found" (404) at link https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/museconfig.js (from https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/)
+13:27:15	Error: 	"Not Found" (404) at link https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/jquery.watch.js (from https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/)
+13:27:15	Error: 	"Not Found" (404) at link https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/jquery.museresponsive.js (from https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/)
+13:27:15	Error: 	"Not Found" (404) at link https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/require.js (from https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/)
+13:27:47	Error: 	"Not Found" (404) at link https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/jquery-1.8.3.min.js (from https://www.hansaton.at/SonovaIframe/geers.de/Trageformuebersicht/)
+13:27:47	Error: 	"Not Found" (404) at link https://www.hansaton.at/getmedia/d7edcc63-ae43-4adc-8005-810a90cc0f54/basisklasse.aspx (from https://www.hansaton.at/hoergeraete-preise/basis/basisklasse/)
+13:28:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link c:/Users/340nblaschke/OneDrive - Sonova/2018-11-12 16_40_28-Flyer_Kurs_fuer_Gleichgewichtsdiagnostik_Funktionsabteilung_Neurootologie.pdf.png (from https://www.hansaton.at/news/innsbrucker-symposium/)
+13:29:54	Error: 	"Not Found" (404) at link https://www.hansaton.at/getmedia/d93bc472-6708-4d38-afbe-989703eea11b/universalklasse.aspx (from https://www.hansaton.at/hoergeraete-preise/standard/universalklasse/)
+13:29:55	Error: 	"Not Found" (404) at link https://www.hansaton.at/CMSPages/GetResource.ashx?image=CMSModules/CMS_WebAnalytics/weekgraph.gif (from https://www.hansaton.at/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/Default/bootstrap.css)
+13:29:55	Error: 	"Not Found" (404) at link https://www.hansaton.at/CMSPages/GetResource.ashx?image=CMSModules/CMS_WebAnalytics/weekgraphselected.gif (from https://www.hansaton.at/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/Default/bootstrap.css)
+13:29:55	Error: 	"Not Found" (404) at link https://www.hansaton.at/CMSPages/Popover requires tooltip.js (from https://www.hansaton.at/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fBootstrap%2fbootstrap.min.js)
+13:29:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link c:/Users/340nblaschke/OneDrive - Sonova/2018-11-12 16_40_28-Flyer_Kurs_fuer_Gleichgewichtsdiagnostik_Funktionsabteilung_Neurootologie.pdf.png (from https://www.hansaton.at/news/innsbrucker-symposium/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 hours 25 minutes 52 seconds : 1192 links scanned, 1025 files written (212353565 bytes overall) [169504051 bytes received at 3505 bytes/sec], 88672633 bytes transferred using HTTP compression in 531 files, ratio 45%, 1.0 requests per connection
+(45 errors, 237 warnings, 0 messages)

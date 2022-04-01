@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hoertsichgutan.hansaton.at	TRUE	/	FALSE	1999999999	ubpv	a%2Cd09cf80a-7119-4a2b-a62a-cce9fa67804b
+hoertsichgutan.hansaton.at	TRUE	/	FALSE	1999999999	ubvs	45b0c012-c622-48a7-8030-98502054d936
+hansaton.at	TRUE	/	FALSE	1999999999	ubvt	45b0c012-c622-48a7-8030-98502054d936
+hoertsichgutan.hansaton.at	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.hansaton.at	TRUE	/	FALSE	1999999999	CMSCsrfCookie	+uL6O2fRVlzheV1woxPnPY3vnbSApoQUmUfy9J0y
+www.hansaton.at	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	jn1wh334yae5lnds3qi3tywa
+www.hansaton.at	TRUE	/	FALSE	1999999999	SameSite	Lax
+bat.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.standorte.hansaton.at	TRUE	/	FALSE	1999999999	__cf_bm	ar99gXCi4ZZsvK2fk1o_Ur.MgE9N2NBh2SWtVqICdXg-1648799470-0-ARJ0gTFohKCq1IZH7/dr6lpgDzV52nQGQFDucl6bnuM1PALTxSlD7j9uYHjERLkxcAWLPuHOLZnU8Cbv4H1wIVY=
+standorte.hansaton.at	TRUE	/	FALSE	1999999999	SameSite	None
+.bing.com	TRUE	/	FALSE	1999999999	MUID	3DD90A1C1B4A6A08170A1B651AF86B46
+c.bing.com	TRUE	/	FALSE	1999999999	Priority	High
+c.bing.com	TRUE	/	FALSE	1999999999	MR	0
+c.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.hansaton.at	TRUE	/	FALSE	1999999999	CMSPreferredCulture	de-AT
+
